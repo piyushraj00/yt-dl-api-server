@@ -1,4 +1,4 @@
-youtube_dl==2019.5.11
+youtube_dl==2020.5.29
 flask==0.12.1
 gunicorn==20.0.4
 Jinja2==2.7.1
